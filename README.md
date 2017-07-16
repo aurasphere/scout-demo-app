@@ -7,16 +7,16 @@ Android demo app for a scout group. The app contains a contact list, a calendar 
 
 ### Screenshots
 - Splashscreen
-<img alt="Start discovery" src="/assets/screenshots/Screenshot_20170717-005145.png" height="600"/>
+<img alt="Splashscreen" src="/assets/screenshots/Screenshot_20170717-005145.png" height="600"/>
 
 - Contact list
-<img alt="Device found" src="/assets/screenshots/Screenshot_20170717-005150.png" height="600"/>
+<img alt="Contact list" src="/assets/screenshots/Screenshot_20170717-005150.png" height="600"/>
 
 - Calendar
-<img alt="Pairing started" src="/assets/screenshots/Screenshot_20170717-005154.png" height="600"/>
+<img alt="Calendar" src="/assets/screenshots/Screenshot_20170717-005154.png" height="600"/>
 
 - Map
-<img alt="Succesfully paired" src="/assets/screenshots/Screenshot_20170717-005158.png" height="600"/>
+<img alt="Map" src="/assets/screenshots/Screenshot_20170717-005158.png" height="600"/>
 
 ### Contributions
 If you want to contribute on this project, just fork this repo and submit a pull request with your changes. Improvements are always appreciated!
