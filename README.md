@@ -1,5 +1,6 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/aurasphere/scout-demo-app/blob/master/LICENSE)
 [![release](http://github-release-version.herokuapp.com/github/aurasphere/scout-demo-app/release.svg?style=flat)](https://github.com/aurasphere/scout-demo-app/releases/latest)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/donate/?cmd=_donations&business=8UK2BZP2K8NSS)
 
 # Scout demo app
 ### Overview
